@@ -11,3 +11,6 @@ https://asciinema.org/a/YiVSpqBaeC1G5SITnOCeUTsjV
 
 ### Brain-gcd game:
 https://asciinema.org/a/HQwBo2AxMRgTChXBtpDvIc67Y
+
+### Brain-progression game:
+https://asciinema.org/a/FBoDhKBzoxP5aFWHMm6wwLBrs
