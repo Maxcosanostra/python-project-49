@@ -2,7 +2,7 @@
 
 
 from ..engine.engine import welcome_player, test_game
-from ..games.brain_even import get_number_and_even_answer
+from ..games.brain_calc import get_math_expression_and_result
 
 
 def check_answer(my_answer, correct_answer):
@@ -11,8 +11,8 @@ def check_answer(my_answer, correct_answer):
 
 def main():
     name = welcome_player()
-    print("Answer 'yes' if the number is even, otherwise answer 'no'.")
-    result = test_game(get_number_and_even_answer, check_answer, name)
+    print("What is the result of the expression?")
+    result = test_game(get_math_expression_and_result, check_answer, name)
     if result:
         print("Congratulations, {}!".format(name))
 

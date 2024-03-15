@@ -8,3 +8,6 @@ https://asciinema.org/a/uFYpr8OLu9I7RXGJVwauL81K3
 
 ### Brain-calc game:
 https://asciinema.org/a/YiVSpqBaeC1G5SITnOCeUTsjV
+
+### Brain-gcd game:
+https://asciinema.org/a/HQwBo2AxMRgTChXBtpDvIc67Y
