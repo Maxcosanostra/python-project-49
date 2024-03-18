@@ -11,7 +11,7 @@ def check_answer(my_answer, correct_answer):
 
 def main():
     name = welcome_player()
-    print("Answer 'yes' if the number is even, otherwise answer 'no'.")
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     result = test_game(get_number_and_even_answer, check_answer, name)
     if result:
         print("Congratulations, {}!".format(name))
